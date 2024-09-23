@@ -9,5 +9,5 @@
   <p>1. Open Terminal</p>
   <p>2. Go to desire directory</p>
 
-  <h3>3. paste: git clone https://github.com/iamcharlie17/220042117_lab02/</h3>
+  <h3>3. paste: "git clone https://github.com/iamcharlie17/220042117_lab02"</h3>
 </div>
